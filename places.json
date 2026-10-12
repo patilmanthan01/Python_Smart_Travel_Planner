@@ -1,0 +1,325 @@
+{
+  "destinations": [
+    {
+      "id": "MUM_01",
+      "name": "Gateway of India & Colaba",
+      "city": "Mumbai",
+      "category": "Sightseeing",
+      "subcategory": "Heritage & Landmark",
+      "description": "Iconic 20th-century basalt arch overlooking the Arabian Sea, adjacent to the historic Taj Mahal Palace.",
+      "estimated_cost_inr": 0,
+      "best_time_slot": "Morning",
+      "rating": 4.7
+    },
+    {
+      "id": "MUM_02",
+      "name": "Marine Drive (Queen's Necklace)",
+      "city": "Mumbai",
+      "category": "Sightseeing",
+      "subcategory": "Promenade & Sunset",
+      "description": "A 3.6-kilometer-long arc-shaped boulevard along the coast, famous for sea breeze and evening strolls.",
+      "estimated_cost_inr": 0,
+      "best_time_slot": "Evening",
+      "rating": 4.8
+    },
+    {
+      "id": "MUM_03",
+      "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS)",
+      "city": "Mumbai",
+      "category": "Sightseeing",
+      "subcategory": "Museum & Art",
+      "description": "Premier art and history museum featuring Indo-Saracenic architecture and vast ancient artifacts.",
+      "estimated_cost_inr": 150,
+      "best_time_slot": "Afternoon",
+      "rating": 4.6
+    },
+    {
+      "id": "MUM_04",
+      "name": "Sanjay Gandhi National Park & Kanheri Caves",
+      "city": "Mumbai",
+      "category": "Sightseeing",
+      "subcategory": "Nature & Trekking",
+      "description": "Sprawling protected national park in Borivali with ancient rock-cut Buddhist caves and cycling trails.",
+      "estimated_cost_inr": 120,
+      "best_time_slot": "Morning",
+      "rating": 4.5
+    },
+    {
+      "id": "MUM_05",
+      "name": "Siddhivinayak Temple",
+      "city": "Mumbai",
+      "category": "Sightseeing",
+      "subcategory": "Spiritual",
+      "description": "Renowned Hindu temple dedicated to Lord Ganesha, located in Prabhadevi.",
+      "estimated_cost_inr": 0,
+      "best_time_slot": "Morning",
+      "rating": 4.8
+    },
+    {
+      "id": "MUM_06",
+      "name": "Bandra Bandstand & Mount Mary Church",
+      "city": "Mumbai",
+      "category": "Sightseeing",
+      "subcategory": "Promenade & Cultural",
+      "description": "Scenic rocky seafront walkway with views of the Bandra-Worli Sea Link and the historic basilica.",
+      "estimated_cost_inr": 0,
+      "best_time_slot": "Evening",
+      "rating": 4.6
+    },
+    {
+      "id": "MUM_07",
+      "name": "Cafe Mondegar & Leopold Cafe",
+      "city": "Mumbai",
+      "category": "Food & Cafe",
+      "subcategory": "Historic Cafe",
+      "description": "Famous Irani and vintage cafes in Colaba known for retro music, murals, and quick bites.",
+      "estimated_cost_inr": 600,
+      "best_time_slot": "Afternoon",
+      "rating": 4.4
+    },
+    {
+      "id": "MUM_08",
+      "name": "Britannia & Co. Restaurant",
+      "city": "Mumbai",
+      "category": "Food & Dining",
+      "subcategory": "Parsi Cuisine",
+      "description": "Legendary Ballard Estate culinary institution celebrated for Berry Pulao and Sali Boti.",
+      "estimated_cost_inr": 800,
+      "best_time_slot": "Afternoon",
+      "rating": 4.5
+    },
+    {
+      "id": "MUM_09",
+      "name": "Bademiya & Bagdadi",
+      "city": "Mumbai",
+      "category": "Food & Dining",
+      "subcategory": "Mughlai & Street Food",
+      "description": "Iconic late-night dining destinations behind the Taj Palace famous for kebabs and rolls.",
+      "estimated_cost_inr": 500,
+      "best_time_slot": "Evening",
+      "rating": 4.2
+    },
+    {
+      "id": "MUM_10",
+      "name": "Kyani & Co.",
+      "city": "Mumbai",
+      "category": "Food & Cafe",
+      "subcategory": "Heritage Irani Bakery",
+      "description": "One of Marine Lines' oldest Irani bakeries serving bun maska, mawa cake, and chai.",
+      "estimated_cost_inr": 200,
+      "best_time_slot": "Morning",
+      "rating": 4.3
+    },
+
+    {
+      "id": "NM_01",
+      "name": "Kharghar Hills & Pandavkada Waterfalls",
+      "city": "Navi Mumbai",
+      "category": "Sightseeing",
+      "subcategory": "Nature & Scenic Viewpoint",
+      "description": "Lush green plateau offering panoramic views of the city horizon, hiking trails, and seasonal falls.",
+      "estimated_cost_inr": 50,
+      "best_time_slot": "Morning",
+      "rating": 4.4
+    },
+    {
+      "id": "NM_02",
+      "name": "Central Park Kharghar",
+      "city": "Navi Mumbai",
+      "category": "Sightseeing",
+      "subcategory": "Urban Park & Leisure",
+      "description": "One of Asia's largest landscaped urban parks featuring botanical gardens, amphitheaters, and jogging tracks.",
+      "estimated_cost_inr": 20,
+      "best_time_slot": "Evening",
+      "rating": 4.5
+    },
+    {
+      "id": "NM_03",
+      "name": "Wonders Park & Nerul Lake",
+      "city": "Navi Mumbai",
+      "category": "Sightseeing",
+      "subcategory": "Theme Park & Lake",
+      "description": "Family amusement park in Nerul housing miniature replicas of the Seven Wonders of the World.",
+      "estimated_cost_inr": 50,
+      "best_time_slot": "Evening",
+      "rating": 4.3
+    },
+    {
+      "id": "NM_04",
+      "name": "Jewel of Navi Mumbai",
+      "city": "Navi Mumbai",
+      "category": "Sightseeing",
+      "subcategory": "Lakeside Promenade",
+      "description": "Beautiful lakefront recreation zone situated between Seawoods and Nerul, popular for morning fitness.",
+      "estimated_cost_inr": 0,
+      "best_time_slot": "Morning",
+      "rating": 4.6
+    },
+    {
+      "id": "NM_05",
+      "name": "Flamingo Sanctuary & DPS Lake",
+      "city": "Navi Mumbai",
+      "category": "Sightseeing",
+      "subcategory": "Bird Watching & Wetlands",
+      "description": "Famous coastal wetlands in Nerul and Seawoods, home to thousands of migratory pink flamingos.",
+      "estimated_cost_inr": 0,
+      "best_time_slot": "Morning",
+      "rating": 4.7
+    },
+    {
+      "id": "NM_06",
+      "name": "Parsik Hill Viewpoint",
+      "city": "Navi Mumbai",
+      "category": "Sightseeing",
+      "subcategory": "Scenic Overlook",
+      "description": "Elevated quiet hilltop viewpoint in Belapur overlooking the harbor line and creek.",
+      "estimated_cost_inr": 0,
+      "best_time_slot": "Evening",
+      "rating": 4.2
+    },
+    {
+      "id": "NM_07",
+      "name": "The Bombay Fries & Commis Chef Cafe",
+      "city": "Navi Mumbai",
+      "category": "Food & Cafe",
+      "subcategory": "Cafe & Fast Casual",
+      "description": "Popular youth hangout spots in Belapur and Vashi known for artisan coffee, shakes, and loaded fries.",
+      "estimated_cost_inr": 400,
+      "best_time_slot": "Afternoon",
+      "rating": 4.3
+    },
+    {
+      "id": "NM_08",
+      "name": "Mahesh Lunch Home Vashi",
+      "city": "Navi Mumbai",
+      "category": "Food & Dining",
+      "subcategory": "Coastal & Seafood",
+      "description": "Prominent fine dining venue in Sector 17, Vashi, serving authentic Mangalorean and coastal seafood.",
+      "estimated_cost_inr": 900,
+      "best_time_slot": "Afternoon",
+      "rating": 4.4
+    },
+    {
+      "id": "NM_09",
+      "name": "Something's Fishy (Belapur)",
+      "city": "Navi Mumbai",
+      "category": "Food & Dining",
+      "subcategory": "Multi-Cuisine & Buffets",
+      "description": "Well-known restaurant located in CBD Belapur specializing in coastal delicacies and buffet lunches.",
+      "estimated_cost_inr": 750,
+      "best_time_slot": "Afternoon",
+      "rating": 4.1
+    },
+
+    {
+      "id": "TH_01",
+      "name": "Upvan Lake & Sanskruti Arts Hub",
+      "city": "Thane",
+      "category": "Sightseeing",
+      "subcategory": "Lakeside & Promenade",
+      "description": "Scenic lake surrounded by Yeoor Hills, famous for lakeside promenades and the annual Upvan Arts Festival.",
+      "estimated_cost_inr": 0,
+      "best_time_slot": "Evening",
+      "rating": 4.6
+    },
+    {
+      "id": "TH_02",
+      "name": "Yeoor Hills & Trek Trails",
+      "city": "Thane",
+      "category": "Sightseeing",
+      "subcategory": "Nature & Forest Trails",
+      "description": "Serene green hill retreat within Sanjay Gandhi National Park boundaries, popular for cycling and nature walks.",
+      "estimated_cost_inr": 30,
+      "best_time_slot": "Morning",
+      "rating": 4.5
+    },
+    {
+      "id": "TH_03",
+      "name": "Talao Pali (Masunda Lake)",
+      "city": "Thane",
+      "category": "Sightseeing",
+      "subcategory": "Lake & Boating",
+      "description": "Central Thane landmark offering evening boating, Shivaji Maharaj statue view, and street food stalls.",
+      "estimated_cost_inr": 50,
+      "best_time_slot": "Evening",
+      "rating": 4.4
+    },
+    {
+      "id": "TH_04",
+      "name": "Kopineshwar Temple",
+      "city": "Thane",
+      "category": "Sightseeing",
+      "subcategory": "Heritage & Spiritual",
+      "description": "Historic Shiva temple established during the Shilahara dynasty, holding immense cultural significance in Thane.",
+      "estimated_cost_inr": 0,
+      "best_time_slot": "Morning",
+      "rating": 4.6
+    },
+    {
+      "id": "TH_05",
+      "name": "Ovalekar Wadi Butterfly Garden",
+      "city": "Thane",
+      "category": "Sightseeing",
+      "subcategory": "Eco-Tourism & Nature",
+      "description": "Open-air butterfly conservatory in Owale where dozens of wild butterfly species flutter freely.",
+      "estimated_cost_inr": 100,
+      "best_time_slot": "Morning",
+      "rating": 4.3
+    },
+    {
+      "id": "TH_06",
+      "name": "Gaimukh Chowpatty & Thane Creek",
+      "city": "Thane",
+      "category": "Sightseeing",
+      "subcategory": "Waterfront Promenade",
+      "description": "Developed waterfront along Ghodbunder Road with sunset views over the creek and evening breeze.",
+      "estimated_cost_inr": 0,
+      "best_time_slot": "Evening",
+      "rating": 4.2
+    },
+    {
+      "id": "TH_07",
+      "name": "Mamledar Misal (Naupada)",
+      "city": "Thane",
+      "category": "Food & Dining",
+      "subcategory": "Authentic Maharashtrian",
+      "description": "Thane's most legendary culinary landmark, world-famous for spicy misal pav since 1952.",
+      "estimated_cost_inr": 150,
+      "best_time_slot": "Morning",
+      "rating": 4.5
+    },
+    {
+      "id": "TH_08",
+      "name": "Prashant Corner",
+      "city": "Thane",
+      "category": "Food & Cafe",
+      "subcategory": "Sweets & Chaat",
+      "description": "Iconic sweet shop and snack parlour in Thane known for premium modaks, chaats, and local snacks.",
+      "estimated_cost_inr": 250,
+      "best_time_slot": "Evening",
+      "rating": 4.7
+    },
+    {
+      "id": "TH_09",
+      "name": "Metkut (Panch Pakhadi)",
+      "city": "Thane",
+      "category": "Food & Dining",
+      "subcategory": "Traditional Maharashtrian Thali",
+      "description": "Celebrated heritage restaurant serving pure traditional Maharashtrian thalis, pithla bhakri, and kothimbir vadi.",
+      "estimated_cost_inr": 450,
+      "best_time_slot": "Afternoon",
+      "rating": 4.4
+    },
+    {
+      "id": "TH_10",
+      "name": "The Chocolate Room & Love Leaf Cafe",
+      "city": "Thane",
+      "category": "Food & Cafe",
+      "subcategory": "Dessert & Coffee Cafe",
+      "description": "Cozy Upvan Lake area cafes known for artisan hot chocolates, coffees, and serene views.",
+      "estimated_cost_inr": 400,
+      "best_time_slot": "Evening",
+      "rating": 4.3
+    }
+  ]
+} 
