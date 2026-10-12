@@ -7,7 +7,7 @@ Aligned with Syllabus Unit 2.2 (Regular Expressions) & Unit 2.3 (User-Defined Ex
 import re
 import sys
 from pathlib import Path
-from typing import Tuple, Optional
+from typing import Tuple, Optional, Any  # Added 'Any' here
 
 # Resolve project root for imports
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -129,4 +129,15 @@ def validate_all_inputs(city_input: str, days_input: Any, budget_input: Any) -> 
     Convenience orchestrator that validates all form fields at once.
     Returns cleaned (city, days, budget) tuple.
     """
-    valid
+    valid_city = validate_city(city_input)
+    valid_days = validate_days(days_input)
+    valid_budget = validate_budget(budget_input)
+    return valid_city, valid_days, valid_budget
+
+
+if __name__ == "__main__":
+    try:
+        c, d, b = validate_all_inputs("mumbai", "3", "4500.50")
+        print(f"[OK] Validated: City={c}, Days={d}, Budget=₹{b}")
+    except ValidationError as err:
+        print(f"[ERROR] {err}")
